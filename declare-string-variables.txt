@@ -1,0 +1,2 @@
+let myFirstName = "Denis";
+let myLastName = "idontcare";
