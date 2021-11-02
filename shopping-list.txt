@@ -1,0 +1,6 @@
+const myList = [];
+myList.push(["one" , 6])
+myList.push(["two" , 7])
+myList.push(["three" , 8])
+myList.push(["four" , 9])
+myList.push(["five" , 10])
